@@ -15,6 +15,7 @@ si n: n % 2 = 0 se determina que es par
 
 si n: n % 2 = 1 se determina que es impar
 
+
 ### output
 respuesta
 # Diseño
