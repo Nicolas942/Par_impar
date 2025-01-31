@@ -9,7 +9,7 @@ Construir un programa que lea si un numero es par o impar
 
 ### Variables de entrada
 n: número al que se desea aplicar el programa
-### prosesisng
+### prosessing
 
 si n: n % 2 = 0 se determina que es par
 
