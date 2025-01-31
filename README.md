@@ -20,5 +20,5 @@ si n: n % 2 = 1 se determina que es impar
 respuesta
 # Diseño
 
-![Diagrama de flujo](Diagrama.png "Diagrama de flujo") 
+![Diagrama de flujo](Diagrama.png "Diagrama de flujo ") 
 # Construcción
